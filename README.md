@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Juan+Martin+Lopez+Frau++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Juan+Martin+Lopez+Frau++;Full-Stack-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
 - 📄 ¡Hola! Soy Juan Martin, tengo 21 años y acabo de finalizar mi formación en el bootcamp de <em>Henry</em>. Actualmente, me encuentro en búsqueda de oportunidades laborales como desarrollador Full Stack, Back-end o Front-end. Me caracterizo por ser una persona que se mantiene en constante aprendizaje y posee una gran habilidad para trabajar en equipo. A continuación, encontrarás más detalles sobre mi perfil.
 <br></br>
